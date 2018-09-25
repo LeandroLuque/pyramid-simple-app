@@ -18,3 +18,12 @@ Getting Started
 
 - pserve development.ini --reload
 
+
+Screenshots
+---------------
+
+- [Home screen](images/1.png)
+- [Login screen](images/2.png)
+- [Logged user](images/3.png)
+
+Project created with **pcreate -s alchemy** 
