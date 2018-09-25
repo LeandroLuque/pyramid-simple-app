@@ -4,11 +4,11 @@ README
 Getting Started
 ---------------
 
-- Crear virtualenv: virtualenv app
+- Crear virtualenv: virtualenv .app
 
-- Activar virtualenv: source app/bin/activate  
+- Activar virtualenv: source .app/bin/activate  
 
-- cd <directorial atual>
+- cd *carpeta del proyecto*
 
 - pip install -e .
 
