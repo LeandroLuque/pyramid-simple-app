@@ -12,7 +12,7 @@ Getting Started
 
 - pip install -e .
 
-- Reemplazar la cadena de conexion *sqlalchemy.url* en el archivo development.ini: postgresql://<usuario>:<password>@<host>:<pass>/<dbname>
+- Reemplazar la cadena de conexion *sqlalchemy.url* en el archivo development.ini: postgresql://usuario:password@host:pass/dbname
 
 - initialize_kenwin_db development.ini
 
