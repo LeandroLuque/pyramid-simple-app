@@ -10,7 +10,7 @@ Getting Started
 
 - cd <directorial atual>
 
-- $VENV/bin/pip install -e .
+- pip install -e .
 
 - Reemplazar la cadena de conexion en el archivo development.ini: postgresql://<usuario>:<password>@<host>:<pass>/<dbname>
 
